@@ -125,6 +125,6 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 For any questions or inquiries, feel free to reach out:
 
-* Name: Ghinwa Allaoui,Kinda Rayes,Riam Abbas
-* Email: allaouighinwa@gmail.com,reyeskinda@gmail.com,riam.abbas97@gmail.com
-* GitHub: Ghinwa1981,kinda-alraiss,Riam24
+* Name: Ghinwa Allaoui, Kinda Rayes, Riam Abbas
+* Email: allaouighinwa@gmail.com ,reyeskinda@gmail.com ,riam.abbas97@gmail.com
+* GitHub: Ghinwa1981, kinda-alraiss, Riam24
