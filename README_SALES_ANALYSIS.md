@@ -2,6 +2,7 @@
 
 Welcome to the Sales Analysis App! This application provides insightful visualizations and analytics for your sales data. Simply upload your data file (Excel or CSV), and explore various analysis types to understand your sales performance better.
 
+
 🛠 Features
 Data Upload and Preview: Upload .xlsx or .csv files to start analysing your sales data. Displays a preview of the uploaded data.
 Missing Data Overview: Check for missing data and understand what columns might need attention.
@@ -13,8 +14,12 @@ Eco-Friendly Cup Analysis: Analyse the usage of eco-friendly cups with pie chart
 Price vs Quantity (Line Plot): Explore the relationship between unit prices and transaction quantities.
 Price Distribution (Histogram): Visualise the distribution of unit prices with a histogram.
 Revenue Calculation: Calculate and visualise revenue by product type.
+
+
 🚀 How to Run the App
+
 Install the required Python libraries:
+
 Bash
 
 pip install pandas streamlit plotly matplotlib
@@ -23,7 +28,6 @@ Save the logo1.png file in the correct path on your machine or update the st.ima
 Run the app:
 
 Bash
-
 streamlit run app.py
 📂 Input Data Requirements
 The app supports .xlsx and .csv file formats.
@@ -33,6 +37,7 @@ Product_type (for Most Popular Products and Revenue Calculation)
 Organic Coffee (for Organic Coffee Analysis)
 Eco_Friendly_cup (for Eco-Friendly Cup Analysis)
 Unit_price and Transaction_qty (for Price vs Quantity and Revenue Calculation)
+
 📈 Visualizations Available
 1. Sales by Store Location
 Bar Chart showing the distribution of sales by store location.
